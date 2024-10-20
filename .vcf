@@ -5,15 +5,14 @@ FN:ניל רונן
 ORG:Ronguard
 ADR;TYPE=WORK:
 TITLE:
-TEL;TYPE=CELL:
+TEL;TYPE=CELL:972546627037
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
-EMAIL;TYPE=WORK:
-URL;TYPE=Digital Business Card:https://neil-ronen.github.io/
-URL:
+EMAIL;TYPE=WORK:neil@ronguard.com
+URL;TYPE=Digital Business Card:https://neil-ronen.github.io/neil-ronen.vcard.io/
+URL:ronguard.com
 
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:שרותי מחשוב
-UID:EnBizCard-100892135
 END:VCARD
