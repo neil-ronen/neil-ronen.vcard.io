@@ -3,17 +3,17 @@ VERSION:3.0
 N:רונן;ניל;;;
 FN:ניל רונן
 ORG:Ronguard
-ADR;TYPE=WORK:רונגארד
+ADR;TYPE=WORK:
 TITLE:
 TEL;TYPE=CELL:0546627037
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
 EMAIL;TYPE=WORK:neil@ronguard.com
-URL;TYPE=Digital Business Card:
+URL;TYPE=Digital Business Card:https://neil-ronen.github.io/neil-ronen.vcard.io/
 URL:www.ronguard.com
 URL;TYPE=Website:www.ronguard.com
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:שרותי מחשוב מתקדמים
-UID:EnBizCard-100577970
+UID:EnBizCard-100232162
 END:VCARD
